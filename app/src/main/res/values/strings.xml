@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BONDS</string>
+    <string name="logo">BONDS</string>
+    <string name="button_1">РАСЧЕТ ОБЛИГАЦИЙ</string>
+    <string name="button_2">F.I.Q</string>
+    <string name="button_3">ВЫХОД</string>
+    <string name="kupon">купоны в год р.</string>
+    <string name="nominal">номинал</string>
+    <string name="pris">цена покупки</string>
+    <string name="cal">РАСЧИТАТЬ</string>
+    <string name="kyp">купонная доходность: </string>
+    <string name="tek">текущая доходность: </string>
+    <string name="producrion">production: cheshire cat </string>
+</resources>
